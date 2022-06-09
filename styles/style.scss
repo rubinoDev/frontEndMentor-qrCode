@@ -1,0 +1,49 @@
+@import './abstract/variables';
+@import './abstract/globals';
+
+
+
+.container{
+  background-color: $light-gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+  .card{
+    background-color: $white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 1.8rem;
+    border-radius: 3rem;
+
+    width: 43rem;
+    img{
+      width: 38rem;
+      height: 40rem;
+      border-radius: 1rem;
+    }
+    h1{
+      font-size: 2.9rem;
+      text-align: center;
+      font-weight: 700;
+
+      color: $dark-blue;
+      padding-top: 3rem;
+      padding-bottom: 2rem;
+      padding-inline: 1.9rem;
+
+    }
+    p{
+      text-align: center;
+      color: $grayish-blue;
+
+      padding-bottom: 2.7rem;
+      padding-inline: 1.6rem;
+      font-size: 2rem;
+    }
+  }
+}
