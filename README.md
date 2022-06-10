@@ -3,6 +3,9 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge"/>
 </p>
 
+![QR Code](https://user-images.githubusercontent.com/105171818/173121417-1d93d747-07fa-44d4-8dd3-a42430264adf.png)
+
+
 ## Challenge from Front End Mentor<br>
 ## ✔️ Technologies used : 
 
